@@ -46,11 +46,10 @@ echo "" >> Packages; ## Add extra new line
 bzip2 < Packages > Packages.bz2
 gzip -9c < Packages > Packages.gz
 
-./deploy.sh
-# git add -A
-# now=$(date +"%I:%M %m-%d-%Y")
-# git commit -am "Packages Update - $now"
-# git push
+git add -A
+now=$(date +"%I:%M %m-%d-%Y")
+git commit -am "Packages Update - $now"
+git push
 
 echo "Updated Github repository with latest packages";
 cd "$cur"
