@@ -6,5 +6,5 @@
 <br />
 
 <p align="center">
-  <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.tapsharp.com"><img width="259" alt="screen shot 2018-03-13 at 11 44 37 pm" src="https://user-images.githubusercontent.com/807318/37373837-a78bb610-2718-11e8-8f6f-8a994c1f689a.png"></a>&nbsp;&nbsp;<a href="https://twitter.com/neoighodaro"><img width="261" alt="screen shot 2018-03-13 at 11 45 09 pm" src="https://user-images.githubusercontent.com/807318/37373838-a7bd3028-2718-11e8-8841-b36b5810bd3c.png"></a>
+  <a href="https://cydia.tapsharp.com"><img width="259" alt="screen shot 2018-03-13 at 11 44 37 pm" src="https://user-images.githubusercontent.com/807318/37373837-a78bb610-2718-11e8-8f6f-8a994c1f689a.png"></a>&nbsp;&nbsp;<a href="https://twitter.com/neoighodaro"><img width="261" alt="screen shot 2018-03-13 at 11 45 09 pm" src="https://user-images.githubusercontent.com/807318/37373838-a7bd3028-2718-11e8-8841-b36b5810bd3c.png"></a>
 </p>
