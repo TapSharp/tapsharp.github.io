@@ -87,4 +87,18 @@ MD5sum: 6f05b81a993bf8855c10b5b468ee02d5
 Size: 11696
 Filename: debs/com.tapsharp.whatsappdarkmode_0.0.1_iphoneos-arm.deb
 
+Package: com.tapsharp.whatsappdarkmode
+Name: WhatsApp Dark Mode
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: WhatsApp Dark Mode. Perfect for battery life on OLED displays like the iPhone X.
+Maintainer: Neo Ighodaro <neo@creativitykills.co>
+Author: Neo Ighodaro <neo@creativitykills.co>
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 120
+MD5sum: 5f7f029c9cca21c9fdb85c86ae36e8eb
+Size: 12964
+Filename: debs/com.tapsharp.whatsappdarkmode_0.0.2_iphoneos-arm.deb
+
 
