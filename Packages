@@ -12,6 +12,20 @@ MD5sum: 7264a16ca5077697c906b4913e4023e7
 Size: 64936
 Filename: debs/com.tapsharp.jumper_0.0.1_iphoneos-arm.deb
 
+Package: com.tapsharp.jumper
+Name: Jumper
+Depends: mobilesubstrate, firmware (>= 11), ws.hbang.common (>= 1.12), com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Architecture: iphoneos-arm
+Description: Jump into an application straight from the lockscreen. Jumper replaces the flashlight and camera lockscreen quick actions with custom applications. Supports iPhones running iOS 11 and up..
+Maintainer: Neo Ighodaro
+Author: Neo Ighodaro
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 360
+MD5sum: b504d5e03da94350f5ff97330701b429
+Size: 64964
+Filename: debs/com.tapsharp.jumper_0.0.2_iphoneos-arm.deb
+
 Package: com.tapsharp.quicklymarkread
 Name: Quickly Mark Read
 Depends: mobilesubstrate
