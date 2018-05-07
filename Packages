@@ -143,6 +143,21 @@ MD5sum: 4751bce8483e962534979a457e69dd4f
 Size: 11508
 Filename: debs/com.tapsharp.twitterdarkmode_0.0.4_iphoneos-arm.deb
 
+Package: com.tapsharp.twitterdarkmode
+Name: Twitter Dark Mode
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Twitter Dark Mode. Perfect for battery life on OLED displays like the iPhone X.
+Maintainer: Neo Ighodaro <neo@creativitykills.co>
+Author: Neo Ighodaro <neo@creativitykills.co>
+Section: Tweaks
+Icon: https://cydia.tapsharp.com/repo/icons/twitterdarkmode.png
+Version: 1.0.0
+Installed-Size: 120
+MD5sum: 5fc6cfc4b53b67811f8b52e33ce72b5a
+Size: 6942
+Filename: debs/com.tapsharp.twitterdarkmode_1.0.0_iphoneos-arm.deb
+
 Package: com.tapsharp.whatsappdarkmode
 Name: WhatsApp Dark Mode
 Depends: mobilesubstrate
