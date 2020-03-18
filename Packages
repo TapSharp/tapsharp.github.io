@@ -13,6 +13,21 @@ MD5sum: b7b87d72672a0c2e1e4c576d4e05e83e
 Size: 3426
 Filename: debs/com.tapsharp.quicklymarkread_0.0.2_iphoneos-arm.deb
 
+Package: com.tapsharp.switcher.unicodefaces
+Name: UnicodeFaces (Switcher)
+Depends: mobilesubstrate, com.tapsharp.switcher (>= 1.0.2)
+Architecture: iphoneos-arm
+Description: Unicode Faces extension for Switcher (⌐■_■)
+Maintainer: Neo Ighodaro
+Author: Neo Ighodaro
+Section: Tweaks
+Icon: file:///Library/Application Support/Switcher/UnicodeFaces/icon@3x.png
+Version: 1.0.0
+Installed-Size: 320
+MD5sum: cabf950669091574dde10dd1d010dd13
+Size: 34132
+Filename: debs/com.tapsharp.switcher.unicodefaces_1.0.0_iphoneos-arm.deb
+
 Package: com.tapsharp.twitterdarkmode
 Name: Twitter Dark Mode
 Depends: mobilesubstrate
