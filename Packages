@@ -103,6 +103,23 @@ MD5sum: 4751bce8483e962534979a457e69dd4f
 Size: 11508
 Filename: debs/com.tapsharp.twitterdarkmode_0.0.4_iphoneos-arm.deb
 
+Package: com.tapsharp.unicodefaces
+Name: Unicode Faces
+Depends: firmware(>=12.1), mobilesubstrate, com.tapsharp.libtapsharp (>= 1.0.1)
+Conflicts:org.seatanners.unifaces
+Architecture: iphoneos-arm
+Description: Add Unicode Faces to your Keyboard.
+Maintainer: Neo Ighodaro
+Author: Neo Ighodaro
+Icon: file:///Library/PreferenceBundles/UnicodeFaces.bundle/icon.png
+Section: Tweaks
+Tags:unifaces,unicode,smileys,unicode faces,tapsharp,neo ighodaro
+Version: 2.0.0
+Installed-Size: 140
+MD5sum: 1e8d1e3cdbb54d2e978338b848078248
+Size: 11362
+Filename: debs/com.tapsharp.unicodefaces_2.0.0_iphoneos-arm.deb
+
 Package: com.tapsharp.whatsappdarkmode
 Name: WhatsApp Dark Mode
 Depends: mobilesubstrate
